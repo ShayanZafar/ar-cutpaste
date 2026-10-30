@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~37.0.3",
+    "expo": "~58.0.21",
     "expo-2d-context": "0.0.2",
     "expo-asset": "~8.1.4",
     "expo-camera": "~8.2.0",
